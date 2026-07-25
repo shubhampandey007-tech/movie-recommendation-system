@@ -1,0 +1,801 @@
+movie,genre
+The Conjuring 0,thriller
+Taare Zameen Par 1,sci-fi
+John Wick 2,comedy
+Train to Busan 3,thriller
+Interstellar 4,thriller
+Deadpool 5,horror
+John Wick 6,drama
+3 Idiots 7,drama
+The Dark Knight 8,romance
+Gully Boy 9,comedy
+Andhadhun 10,action
+John Wick 11,romance
+Dangal 12,horror
+Bhool Bhulaiyaa 13,sci-fi
+Mission Impossible 14,drama
+PK 15,action
+Doctor Strange 16,sci-fi
+The Conjuring 17,comedy
+Thor 18,horror
+Dangal 19,romance
+Andhadhun 20,comedy
+Stree 21,sci-fi
+Fast and Furious 22,action
+Spiderman No Way Home 23,romance
+Kabir Singh 24,action
+Black Panther 25,action
+Kabir Singh 26,action
+Hera Pheri 27,drama
+Joker 28,comedy
+Gully Boy 29,romance
+Shershaah 30,romance
+PK 31,horror
+Dangal 32,sci-fi
+Mission Impossible 33,thriller
+Andhadhun 34,comedy
+Iron Man 35,action
+DDLJ 36,comedy
+Dangal 37,action
+RRR 38,romance
+Inception 39,romance
+Interstellar 40,sci-fi
+War 41,sci-fi
+PK 42,thriller
+KGF 43,romance
+Interstellar 44,thriller
+Interstellar 45,comedy
+Gully Boy 46,horror
+Black Panther 47,action
+Hera Pheri 48,thriller
+The Hangover 49,sci-fi
+Black Panther 50,thriller
+KGF 51,comedy
+Kabir Singh 52,romance
+Bhool Bhulaiyaa 53,comedy
+Pathaan 54,drama
+War 55,drama
+ZNMD 56,sci-fi
+Stree 57,horror
+Inception 58,drama
+Fast and Furious 59,comedy
+Gully Boy 60,action
+Drishyam 61,comedy
+Joker 62,horror
+Chhichhore 63,comedy
+Gully Boy 64,comedy
+Chhichhore 65,romance
+Mission Impossible 66,thriller
+The Hangover 67,comedy
+The Dark Knight 68,thriller
+The Dark Knight 69,thriller
+Doctor Strange 70,action
+Iron Man 71,drama
+The Conjuring 72,action
+Shershaah 73,horror
+ZNMD 74,sci-fi
+Fast and Furious 75,sci-fi
+ZNMD 76,comedy
+Inception 77,horror
+Interstellar 78,thriller
+Andhadhun 79,comedy
+ZNMD 80,sci-fi
+Chhichhore 81,drama
+Andhadhun 82,action
+Chhichhore 83,sci-fi
+Joker 84,sci-fi
+Black Panther 85,action
+Drishyam 86,romance
+Parasite 87,thriller
+3 Idiots 88,sci-fi
+John Wick 89,horror
+Taare Zameen Par 90,thriller
+Stree 91,thriller
+ZNMD 92,comedy
+The Conjuring 93,comedy
+ZNMD 94,thriller
+Bahubali 95,comedy
+Titanic 96,sci-fi
+Shershaah 97,drama
+Bhool Bhulaiyaa 98,horror
+Stree 99,action
+PK 100,romance
+Dangal 101,drama
+Black Panther 102,comedy
+Bahubali 103,romance
+It 104,comedy
+John Wick 105,romance
+3 Idiots 106,comedy
+PK 107,romance
+Avengers Endgame 108,comedy
+Iron Man 109,thriller
+Drishyam 110,romance
+The Conjuring 111,romance
+Dangal 112,thriller
+Joker 113,romance
+Inception 114,sci-fi
+John Wick 115,romance
+John Wick 116,thriller
+Andhadhun 117,thriller
+The Hangover 118,horror
+Deadpool 119,horror
+Hera Pheri 120,comedy
+Thor 121,thriller
+The Conjuring 122,romance
+Drishyam 123,romance
+ZNMD 124,thriller
+Mission Impossible 125,drama
+Hera Pheri 126,comedy
+Doctor Strange 127,thriller
+Inception 128,comedy
+War 129,comedy
+Drishyam 130,sci-fi
+Inception 131,romance
+Bahubali 132,action
+3 Idiots 133,romance
+Pathaan 134,action
+Chhichhore 135,drama
+The Dark Knight 136,action
+Fast and Furious 137,sci-fi
+Train to Busan 138,romance
+Gully Boy 139,horror
+Deadpool 140,comedy
+Gully Boy 141,romance
+Taare Zameen Par 142,action
+Shershaah 143,horror
+Doctor Strange 144,thriller
+3 Idiots 145,thriller
+Gully Boy 146,thriller
+Iron Man 147,comedy
+RRR 148,thriller
+ZNMD 149,drama
+RRR 150,comedy
+Spiderman No Way Home 151,horror
+Bahubali 152,thriller
+It 153,sci-fi
+Train to Busan 154,action
+Avengers Endgame 155,sci-fi
+Taare Zameen Par 156,action
+Titanic 157,thriller
+Spiderman No Way Home 158,comedy
+Parasite 159,comedy
+Pathaan 160,comedy
+KGF 161,comedy
+Deadpool 162,romance
+Titanic 163,comedy
+Bahubali 164,thriller
+Parasite 165,horror
+Dangal 166,comedy
+John Wick 167,action
+Bhool Bhulaiyaa 168,thriller
+The Conjuring 169,drama
+Mission Impossible 170,comedy
+Gully Boy 171,comedy
+Taare Zameen Par 172,action
+War 173,action
+The Dark Knight 174,comedy
+Thor 175,sci-fi
+Avengers Endgame 176,horror
+The Dark Knight 177,drama
+ZNMD 178,drama
+The Dark Knight 179,sci-fi
+KGF 180,drama
+Gully Boy 181,sci-fi
+Andhadhun 182,comedy
+Doctor Strange 183,comedy
+Pathaan 184,horror
+Bahubali 185,drama
+Spiderman No Way Home 186,horror
+Hera Pheri 187,comedy
+Stree 188,action
+Iron Man 189,horror
+Train to Busan 190,thriller
+KGF 191,comedy
+Gully Boy 192,horror
+Bhool Bhulaiyaa 193,comedy
+3 Idiots 194,horror
+Spiderman No Way Home 195,horror
+Bahubali 196,horror
+Deadpool 197,horror
+Drishyam 198,comedy
+Fast and Furious 199,horror
+Hera Pheri 200,sci-fi
+ZNMD 201,action
+Shershaah 202,action
+Thor 203,drama
+Thor 204,drama
+Mission Impossible 205,action
+War 206,comedy
+Andhadhun 207,action
+DDLJ 208,sci-fi
+Inception 209,comedy
+Gully Boy 210,horror
+Hera Pheri 211,sci-fi
+Stree 212,action
+3 Idiots 213,thriller
+ZNMD 214,sci-fi
+3 Idiots 215,action
+Gully Boy 216,drama
+Dangal 217,thriller
+Black Panther 218,thriller
+Black Panther 219,action
+Joker 220,comedy
+Andhadhun 221,comedy
+Spiderman No Way Home 222,comedy
+John Wick 223,action
+RRR 224,drama
+Doctor Strange 225,action
+Interstellar 226,sci-fi
+DDLJ 227,action
+War 228,thriller
+Shershaah 229,drama
+Kabir Singh 230,action
+Interstellar 231,horror
+Taare Zameen Par 232,romance
+Joker 233,romance
+Shershaah 234,sci-fi
+Kabir Singh 235,drama
+Iron Man 236,sci-fi
+The Hangover 237,drama
+Deadpool 238,horror
+Spiderman No Way Home 239,comedy
+Drishyam 240,romance
+Interstellar 241,horror
+Iron Man 242,drama
+The Dark Knight 243,action
+Chhichhore 244,comedy
+Hera Pheri 245,comedy
+Dangal 246,thriller
+Titanic 247,comedy
+Thor 248,sci-fi
+The Hangover 249,sci-fi
+John Wick 250,sci-fi
+John Wick 251,drama
+Spiderman No Way Home 252,sci-fi
+Bahubali 253,romance
+Train to Busan 254,drama
+Shershaah 255,horror
+John Wick 256,horror
+Dangal 257,sci-fi
+Spiderman No Way Home 258,thriller
+KGF 259,comedy
+Deadpool 260,sci-fi
+3 Idiots 261,horror
+DDLJ 262,horror
+Parasite 263,thriller
+Train to Busan 264,romance
+The Conjuring 265,comedy
+Fast and Furious 266,romance
+KGF 267,sci-fi
+Thor 268,horror
+Mission Impossible 269,action
+Andhadhun 270,comedy
+Drishyam 271,comedy
+3 Idiots 272,horror
+Train to Busan 273,drama
+Drishyam 274,sci-fi
+Pathaan 275,comedy
+The Dark Knight 276,drama
+Mission Impossible 277,horror
+ZNMD 278,sci-fi
+Fast and Furious 279,drama
+Fast and Furious 280,action
+The Dark Knight 281,comedy
+Doctor Strange 282,drama
+PK 283,thriller
+Train to Busan 284,romance
+Taare Zameen Par 285,romance
+Bahubali 286,drama
+DDLJ 287,horror
+It 288,drama
+Gully Boy 289,action
+Spiderman No Way Home 290,romance
+Chhichhore 291,sci-fi
+Thor 292,drama
+Inception 293,comedy
+Chhichhore 294,thriller
+The Conjuring 295,comedy
+Avengers Endgame 296,drama
+Gully Boy 297,drama
+3 Idiots 298,romance
+Andhadhun 299,sci-fi
+Hera Pheri 300,romance
+Black Panther 301,comedy
+Inception 302,thriller
+3 Idiots 303,action
+The Dark Knight 304,thriller
+RRR 305,comedy
+PK 306,drama
+RRR 307,sci-fi
+Iron Man 308,thriller
+Kabir Singh 309,sci-fi
+Dangal 310,action
+ZNMD 311,sci-fi
+Spiderman No Way Home 312,sci-fi
+Gully Boy 313,thriller
+Deadpool 314,thriller
+Parasite 315,horror
+Titanic 316,sci-fi
+Titanic 317,comedy
+RRR 318,sci-fi
+Drishyam 319,comedy
+Drishyam 320,sci-fi
+Bahubali 321,thriller
+The Dark Knight 322,action
+Fast and Furious 323,horror
+KGF 324,comedy
+Mission Impossible 325,action
+PK 326,thriller
+Interstellar 327,thriller
+Taare Zameen Par 328,action
+John Wick 329,drama
+Stree 330,sci-fi
+Chhichhore 331,drama
+John Wick 332,romance
+Thor 333,horror
+Interstellar 334,sci-fi
+Joker 335,horror
+Bhool Bhulaiyaa 336,drama
+Spiderman No Way Home 337,drama
+Gully Boy 338,action
+The Hangover 339,action
+The Dark Knight 340,drama
+Stree 341,comedy
+Bhool Bhulaiyaa 342,horror
+Joker 343,sci-fi
+PK 344,thriller
+Mission Impossible 345,comedy
+The Dark Knight 346,action
+The Conjuring 347,horror
+Iron Man 348,drama
+Kabir Singh 349,romance
+Thor 350,action
+Andhadhun 351,horror
+Spiderman No Way Home 352,comedy
+Andhadhun 353,romance
+Dangal 354,action
+Shershaah 355,drama
+Interstellar 356,romance
+Thor 357,action
+Drishyam 358,thriller
+Doctor Strange 359,comedy
+Interstellar 360,sci-fi
+Parasite 361,thriller
+Fast and Furious 362,romance
+Drishyam 363,comedy
+The Conjuring 364,drama
+Parasite 365,comedy
+Joker 366,romance
+Thor 367,horror
+DDLJ 368,comedy
+Spiderman No Way Home 369,romance
+Kabir Singh 370,comedy
+Parasite 371,horror
+War 372,horror
+Fast and Furious 373,comedy
+RRR 374,action
+The Dark Knight 375,comedy
+Pathaan 376,sci-fi
+Black Panther 377,comedy
+Inception 378,romance
+The Dark Knight 379,comedy
+Shershaah 380,comedy
+DDLJ 381,sci-fi
+Taare Zameen Par 382,sci-fi
+Bahubali 383,comedy
+PK 384,romance
+War 385,action
+RRR 386,thriller
+Train to Busan 387,drama
+DDLJ 388,thriller
+Dangal 389,horror
+Avengers Endgame 390,horror
+Deadpool 391,action
+DDLJ 392,drama
+Titanic 393,horror
+DDLJ 394,drama
+Kabir Singh 395,action
+It 396,thriller
+Avengers Endgame 397,sci-fi
+The Hangover 398,thriller
+PK 399,sci-fi
+Drishyam 400,thriller
+The Conjuring 401,comedy
+The Dark Knight 402,horror
+Dangal 403,drama
+PK 404,thriller
+The Hangover 405,horror
+Pathaan 406,comedy
+Kabir Singh 407,sci-fi
+Shershaah 408,sci-fi
+Titanic 409,romance
+Shershaah 410,thriller
+Andhadhun 411,drama
+Fast and Furious 412,action
+Pathaan 413,horror
+Thor 414,thriller
+Bahubali 415,action
+KGF 416,romance
+ZNMD 417,comedy
+Dangal 418,horror
+It 419,drama
+RRR 420,comedy
+Titanic 421,sci-fi
+KGF 422,sci-fi
+Taare Zameen Par 423,action
+The Conjuring 424,action
+Joker 425,drama
+The Hangover 426,action
+RRR 427,romance
+Spiderman No Way Home 428,action
+Dangal 429,horror
+PK 430,comedy
+3 Idiots 431,romance
+The Conjuring 432,comedy
+Parasite 433,horror
+Deadpool 434,comedy
+It 435,horror
+Hera Pheri 436,comedy
+Drishyam 437,thriller
+War 438,comedy
+Hera Pheri 439,romance
+The Dark Knight 440,action
+Train to Busan 441,drama
+Train to Busan 442,thriller
+Inception 443,horror
+Doctor Strange 444,sci-fi
+DDLJ 445,thriller
+The Conjuring 446,action
+The Dark Knight 447,drama
+Train to Busan 448,horror
+Bhool Bhulaiyaa 449,drama
+Chhichhore 450,horror
+KGF 451,comedy
+The Dark Knight 452,sci-fi
+Shershaah 453,sci-fi
+Interstellar 454,comedy
+PK 455,sci-fi
+Andhadhun 456,sci-fi
+Fast and Furious 457,comedy
+Titanic 458,sci-fi
+Gully Boy 459,comedy
+ZNMD 460,horror
+Chhichhore 461,action
+3 Idiots 462,thriller
+Taare Zameen Par 463,thriller
+ZNMD 464,thriller
+The Conjuring 465,action
+Andhadhun 466,thriller
+DDLJ 467,drama
+Joker 468,comedy
+PK 469,drama
+Chhichhore 470,action
+Deadpool 471,romance
+ZNMD 472,comedy
+Thor 473,action
+Shershaah 474,thriller
+RRR 475,thriller
+War 476,drama
+3 Idiots 477,comedy
+Dangal 478,comedy
+PK 479,romance
+Black Panther 480,action
+Train to Busan 481,sci-fi
+Drishyam 482,romance
+The Hangover 483,drama
+DDLJ 484,action
+Gully Boy 485,thriller
+PK 486,sci-fi
+Joker 487,comedy
+Interstellar 488,sci-fi
+Joker 489,action
+3 Idiots 490,sci-fi
+Fast and Furious 491,action
+John Wick 492,action
+Bahubali 493,comedy
+Train to Busan 494,action
+Doctor Strange 495,action
+Dangal 496,romance
+The Hangover 497,thriller
+Gully Boy 498,action
+Train to Busan 499,sci-fi
+Pathaan 500,comedy
+Stree 501,sci-fi
+Joker 502,thriller
+ZNMD 503,comedy
+Titanic 504,romance
+Stree 505,sci-fi
+DDLJ 506,thriller
+Mission Impossible 507,drama
+PK 508,drama
+Andhadhun 509,action
+Iron Man 510,action
+Dangal 511,drama
+Shershaah 512,action
+RRR 513,romance
+Dangal 514,romance
+Chhichhore 515,comedy
+Bhool Bhulaiyaa 516,action
+3 Idiots 517,comedy
+Hera Pheri 518,thriller
+ZNMD 519,thriller
+The Dark Knight 520,action
+ZNMD 521,drama
+Train to Busan 522,horror
+Andhadhun 523,drama
+3 Idiots 524,comedy
+Mission Impossible 525,romance
+Taare Zameen Par 526,sci-fi
+Bhool Bhulaiyaa 527,comedy
+Doctor Strange 528,thriller
+Mission Impossible 529,drama
+Pathaan 530,sci-fi
+ZNMD 531,horror
+Taare Zameen Par 532,thriller
+ZNMD 533,action
+Fast and Furious 534,action
+Joker 535,thriller
+Stree 536,comedy
+Shershaah 537,drama
+Deadpool 538,romance
+Deadpool 539,action
+Chhichhore 540,sci-fi
+Mission Impossible 541,thriller
+Bhool Bhulaiyaa 542,thriller
+Shershaah 543,thriller
+ZNMD 544,sci-fi
+Parasite 545,horror
+War 546,sci-fi
+ZNMD 547,horror
+Spiderman No Way Home 548,romance
+Thor 549,sci-fi
+ZNMD 550,sci-fi
+Pathaan 551,romance
+Shershaah 552,romance
+Kabir Singh 553,action
+Joker 554,horror
+Black Panther 555,romance
+The Hangover 556,thriller
+Stree 557,thriller
+Taare Zameen Par 558,horror
+ZNMD 559,thriller
+The Hangover 560,drama
+Avengers Endgame 561,thriller
+Inception 562,drama
+Chhichhore 563,horror
+Doctor Strange 564,drama
+Pathaan 565,thriller
+DDLJ 566,drama
+DDLJ 567,drama
+Hera Pheri 568,horror
+Parasite 569,romance
+Parasite 570,sci-fi
+RRR 571,sci-fi
+Hera Pheri 572,romance
+Mission Impossible 573,drama
+Inception 574,romance
+Spiderman No Way Home 575,thriller
+Gully Boy 576,comedy
+Drishyam 577,action
+Black Panther 578,thriller
+Drishyam 579,horror
+Stree 580,thriller
+KGF 581,action
+The Dark Knight 582,romance
+Train to Busan 583,comedy
+Deadpool 584,thriller
+Pathaan 585,horror
+Gully Boy 586,comedy
+Train to Busan 587,comedy
+Shershaah 588,sci-fi
+Bhool Bhulaiyaa 589,thriller
+Avengers Endgame 590,comedy
+Stree 591,drama
+Stree 592,sci-fi
+Train to Busan 593,sci-fi
+Kabir Singh 594,drama
+Train to Busan 595,drama
+Deadpool 596,romance
+Doctor Strange 597,sci-fi
+Joker 598,sci-fi
+Avengers Endgame 599,thriller
+Interstellar 600,romance
+Bahubali 601,comedy
+Bhool Bhulaiyaa 602,thriller
+Hera Pheri 603,thriller
+RRR 604,sci-fi
+Parasite 605,horror
+ZNMD 606,comedy
+Pathaan 607,action
+PK 608,action
+Inception 609,comedy
+Iron Man 610,sci-fi
+RRR 611,thriller
+Parasite 612,comedy
+Iron Man 613,thriller
+Taare Zameen Par 614,sci-fi
+DDLJ 615,horror
+Drishyam 616,action
+Drishyam 617,sci-fi
+Avengers Endgame 618,drama
+Drishyam 619,action
+Spiderman No Way Home 620,thriller
+Pathaan 621,action
+The Conjuring 622,comedy
+3 Idiots 623,romance
+Interstellar 624,sci-fi
+Train to Busan 625,romance
+Joker 626,comedy
+Thor 627,drama
+PK 628,comedy
+RRR 629,romance
+War 630,drama
+Bahubali 631,comedy
+ZNMD 632,thriller
+Fast and Furious 633,horror
+Kabir Singh 634,romance
+Chhichhore 635,horror
+Interstellar 636,thriller
+Black Panther 637,thriller
+Pathaan 638,drama
+Shershaah 639,comedy
+Joker 640,comedy
+Bhool Bhulaiyaa 641,romance
+Pathaan 642,romance
+Joker 643,action
+Parasite 644,comedy
+The Conjuring 645,romance
+Bahubali 646,comedy
+Avengers Endgame 647,sci-fi
+Dangal 648,comedy
+3 Idiots 649,romance
+Iron Man 650,sci-fi
+War 651,horror
+KGF 652,thriller
+Stree 653,horror
+Mission Impossible 654,romance
+Shershaah 655,comedy
+The Dark Knight 656,comedy
+Kabir Singh 657,action
+War 658,romance
+Joker 659,comedy
+Avengers Endgame 660,sci-fi
+Mission Impossible 661,sci-fi
+Dangal 662,sci-fi
+Joker 663,romance
+Stree 664,action
+Train to Busan 665,action
+RRR 666,drama
+KGF 667,sci-fi
+KGF 668,romance
+Pathaan 669,thriller
+ZNMD 670,comedy
+The Dark Knight 671,sci-fi
+Spiderman No Way Home 672,sci-fi
+Interstellar 673,action
+PK 674,sci-fi
+It 675,action
+Fast and Furious 676,drama
+Thor 677,thriller
+Hera Pheri 678,horror
+John Wick 679,action
+Thor 680,comedy
+Bahubali 681,horror
+Deadpool 682,drama
+RRR 683,romance
+John Wick 684,horror
+PK 685,horror
+Thor 686,comedy
+Mission Impossible 687,horror
+ZNMD 688,sci-fi
+RRR 689,comedy
+Spiderman No Way Home 690,comedy
+Joker 691,comedy
+3 Idiots 692,romance
+The Conjuring 693,drama
+Drishyam 694,thriller
+Dangal 695,thriller
+Titanic 696,sci-fi
+Deadpool 697,drama
+Fast and Furious 698,action
+Drishyam 699,thriller
+Chhichhore 700,drama
+Thor 701,drama
+Bhool Bhulaiyaa 702,drama
+John Wick 703,drama
+Chhichhore 704,horror
+Shershaah 705,romance
+Dangal 706,horror
+Gully Boy 707,horror
+Dangal 708,thriller
+Parasite 709,horror
+PK 710,action
+Interstellar 711,sci-fi
+Parasite 712,action
+ZNMD 713,horror
+Dangal 714,sci-fi
+Dangal 715,horror
+Stree 716,thriller
+Stree 717,thriller
+Bahubali 718,thriller
+Titanic 719,thriller
+Taare Zameen Par 720,drama
+Iron Man 721,horror
+Interstellar 722,action
+Doctor Strange 723,horror
+ZNMD 724,sci-fi
+Train to Busan 725,action
+Deadpool 726,drama
+John Wick 727,drama
+Doctor Strange 728,drama
+DDLJ 729,horror
+Train to Busan 730,romance
+KGF 731,drama
+KGF 732,action
+Taare Zameen Par 733,horror
+The Dark Knight 734,action
+Chhichhore 735,action
+Gully Boy 736,comedy
+Kabir Singh 737,action
+Drishyam 738,thriller
+Iron Man 739,drama
+KGF 740,thriller
+It 741,action
+Iron Man 742,action
+Spiderman No Way Home 743,drama
+It 744,thriller
+Mission Impossible 745,comedy
+Train to Busan 746,action
+Iron Man 747,thriller
+Inception 748,action
+Gully Boy 749,drama
+Parasite 750,drama
+Bahubali 751,comedy
+Kabir Singh 752,drama
+Dangal 753,drama
+Dangal 754,romance
+Titanic 755,horror
+Thor 756,thriller
+Stree 757,sci-fi
+Deadpool 758,sci-fi
+Drishyam 759,thriller
+DDLJ 760,romance
+Black Panther 761,romance
+Kabir Singh 762,sci-fi
+Fast and Furious 763,horror
+Titanic 764,sci-fi
+Taare Zameen Par 765,horror
+Avengers Endgame 766,action
+Hera Pheri 767,action
+Dangal 768,thriller
+The Dark Knight 769,thriller
+Avengers Endgame 770,horror
+Taare Zameen Par 771,romance
+Gully Boy 772,sci-fi
+War 773,drama
+The Conjuring 774,sci-fi
+Bhool Bhulaiyaa 775,sci-fi
+Thor 776,horror
+Bhool Bhulaiyaa 777,comedy
+Gully Boy 778,thriller
+Titanic 779,romance
+Spiderman No Way Home 780,sci-fi
+Iron Man 781,comedy
+Stree 782,thriller
+DDLJ 783,horror
+Dangal 784,thriller
+RRR 785,romance
+John Wick 786,thriller
+Chhichhore 787,romance
+Interstellar 788,comedy
+It 789,thriller
+Train to Busan 790,comedy
+Deadpool 791,thriller
+Train to Busan 792,romance
+Iron Man 793,romance
+DDLJ 794,action
+PK 795,comedy
+RRR 796,drama
+PK 797,drama
+Deadpool 798,romance
+Interstellar 799,action
